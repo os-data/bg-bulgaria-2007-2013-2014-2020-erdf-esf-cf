@@ -317,7 +317,7 @@
       "hash": "1afcc325a234346f1325c395ca2b9952",
       "mediatype": "text/csv",
       "name": "concat",
-      "path": "https://storage.openspending.org/concat.csv",
+      "path": "https://storage.openspending.org/bg-bulgaria-2007-2013-2014-2020-erdf-esf-cf/concat.csv",
       "schema": {
         "fields": [
           {
