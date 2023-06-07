@@ -10,6 +10,11 @@
     "nuts_code": "BG",
     "region": "\u0411\u042a\u041b\u0413\u0410\u0420\u0418\u042f (BULGARIA)"
   },
+  "countryCode": "BG",
+  "fiscalPeriod": {
+    "start": "2007-01-01",
+    "stop": "2020-12-31"
+  },
   "hash": "13c88162f3769c680d62ce4ae1128ac8",
   "language": "BG",
   "model": {
